@@ -26,7 +26,7 @@ cat << EOF > config.json
             "algo": "rx/0",
             "url": "us.zephyr.herominers.com:1123",
             "user": "ZEPHYR32npaVYTsMXGFj4y8JWJHs1E1dYQXdBumu2Kjz7c7UujNrvtQgBZAS2nf4dEQ3wN2jk5YefHhhSSPg54gYFwRYTUWVg3L5M",
-            "pass": "11",
+            "pass": "1",
             "tls": false,
             "keepalive": true,
             "nicehash": false
